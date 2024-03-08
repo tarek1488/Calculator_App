@@ -50,6 +50,8 @@ This is a simple calculator application built using Flask. It allows users to pe
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
-## video link
+## Video Demonstration
+
+Check out this video demonstration of the calculator app on YouTube: [Calculator App Demo](https://youtu.be/j8_xd0HsMr0)
 
 
