@@ -13,37 +13,17 @@ This is a simple calculator application built using Flask. It allows users to pe
 - Multiplication
 - Division
 
-## Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/yourusername/flask-calculator.git
-    ```
-
-2. Navigate into the project directory:
-
-    ```bash
-    cd flask-calculator
-    ```
-
-3. Install dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. Run the Flask app:
 
     ```bash
-    python app.py
+    python calc_app.py
     ```
 
-2. Open your web browser and go to `http://localhost:5000` to access the calculator app.
+2. Open your web browser and go to `http://localhost:9000` to access the calculator app.
 
-3. Perform calculations by entering numbers and selecting the desired operation.
+3. Perform calculations by entering expressions.
 
 
 ## Contributing
