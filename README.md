@@ -1,6 +1,6 @@
 # Flask Calculator App
 
-![Calculator App](calculator_app.png)
+![Calculator App](images/app_image.PNG)
 
 ## Description
 
@@ -45,14 +45,11 @@ This is a simple calculator application built using Flask. It allows users to pe
 
 3. Perform calculations by entering numbers and selecting the desired operation.
 
-## Example
-
-![Calculator App Example](calculator_example.png)
 
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
-## License
+## video link
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
