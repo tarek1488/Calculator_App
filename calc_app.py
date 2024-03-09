@@ -13,6 +13,7 @@ def home():
 @app.route('/calculate', methods=['POST'])
 def calculate():
     expression = request.form['screen']
+    print(expression)
     try:
         result = eval(expression)
         print(result)
