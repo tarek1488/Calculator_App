@@ -1,4 +1,5 @@
 from flask import Flask,render_template , redirect ,request
+from function import calc
 
 
 
@@ -13,9 +14,9 @@ def home():
 @app.route('/calculate', methods=['POST'])
 def calculate():
     expression = request.form['screen']
-    print(expression)
+    
     try:
-        result = eval(expression)
+        result = calc(expression)
         print(result)
         return render_template('homepage.html' ,result = result , expr = expression)
     except Exception as e:
